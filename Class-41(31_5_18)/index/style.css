@@ -1,0 +1,58 @@
+.header{background:#4D96A2;
+}
+h1{color:#D3F6F7;
+}
+.aa{
+	color:#D3F6F7;
+}
+.ab{font-family:Garamond; text-decoration:bold; font-size:50%;}
+
+.menu{background-image:url("sea1.jpg"): height:400px: background-repeat: no-repeat:
+    background-size: 100% 500px:}
+.uper{
+	text-align:center;}
+.uper h1{color:#A6A6A6; }
+
+.slider{
+	height:450px;
+	
+}
+.uper{
+	height:450px;
+	color:#A6A6A6;
+	margin-top:-450px;
+	position:relative;
+	padding-top:130px;
+}
+/*pre start*/
+.pre{
+	text-align:center;
+	padding-top:50px; height:350px; background:#E4E4E4;
+}
+.pre1{
+	text-align:center;
+	padding-top:50px;
+}
+.pre3{
+	text-align:center;
+	padding-top:50px;
+	font-size:30px;
+	color:#65B3C4;
+	
+}
+/*pre end*/
+.para{
+	background:#02CF8A;
+	height:350px;
+}
+.para img{
+	width:140px;
+	height:140px;
+	text-decoration:none;
+	text-align:center;
+	margin-top:80px;
+	margin-left:470px
+}
+.pp{
+	width:100%;
+}

@@ -1,0 +1,22 @@
+/*body  style="background:#B4B7BC" */
+/* start of header */
+.header{
+	background:#454545;
+}
+.header h1{
+	font-family:Kunstler Script; font-size:50px; color:#D76453; text-decoration:bold; 
+}
+.right_box_head{background:#36312D; padding:3px 4px;margin-top:20px; 
+}
+.a,.b,.c{background:#36312D;text-align:right;}
+.a{color:white;padding:4px}
+.b{color:white;padding:4px}
+.c{color:white;padding:4px}
+
+
+/* end of header */
+/* start of slider */\
+.slider{margin-top:-10px;}
+
+
+/* end of header */

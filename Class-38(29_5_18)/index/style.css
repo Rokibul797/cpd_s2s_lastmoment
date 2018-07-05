@@ -1,0 +1,37 @@
+/*md rokibul Hasan
+Phone:01621128299
+*/
+
+body{background:red;}
+/*start of header*/
+.header{background:#FFFFFF;}
+h1{color:#E2211F; text-align:center;}
+.a{color:#F1F19B;}
+	p{text-align:center;color:#A6A6A6;}
+/*end of header*/
+
+/*start of menu*/
+.menu{padding:0px;}
+
+/*end of menu*/
+
+/*start of sliderimg*/
+/*end of menu*/
+
+/*start of contant*/
+a{color:#E82728;text-decoration:underline}
+.contant{background:#FFFFFF}
+.contant h3{color:#F1BA7B;}
+.box_1{text-align:justify; }
+
+.box_2{text-align:justify;}
+
+.d{text-decoration:italic;}
+.sec{width:100%;}\
+	p{text-align:justify;}
+
+/*end of menu*/
+
+/*start of footer*/
+.footer{background:#FDA540; height:60px; text-align:center;line-height:60px;}
+/*end of footer*/
